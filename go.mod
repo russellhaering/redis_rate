@@ -1,4 +1,4 @@
-module github.com/ductone/redis_rate/v11
+module github.com/russellhaering/redis_rate/v11
 
 go 1.19
 
